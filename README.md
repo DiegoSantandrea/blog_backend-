@@ -1,1 +1,1 @@
-en configs hya data
+en configs hay data
